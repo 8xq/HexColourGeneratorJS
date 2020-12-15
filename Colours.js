@@ -1,3 +1,8 @@
+//=============================================================================\\
+//                            Hex colour Generator JS                           \\
+//                              made by nullcheats                               \\
+//================================================================================\\
+
 /*  
 This is the function that sets the new background according to the "HEX"
 This will also change the "RGB" & "HEX" codes on the main page
